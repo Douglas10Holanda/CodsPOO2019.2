@@ -1,0 +1,23 @@
+abstract class Animal{        
+    abstract String emitirSom();
+
+    public String acao(){
+        return "Acao indefinida";
+    }
+}
+
+class Cachorro extends Animal{
+    public String emitirSom(){
+        return "Au au...";
+    }
+}
+
+class Gato extends Animal{
+    public String emitirSom(){
+        return "Miauuu...";
+    }
+
+    public String acao(){
+        return "Azunhar!";
+    }
+}

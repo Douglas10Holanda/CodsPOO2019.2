@@ -1,0 +1,27 @@
+package Iury;
+
+public class Principal{
+	public static void main(String[]args) {
+		Gerente gerente = new Gerente();
+		
+		gerente.setNome("Iury");
+		gerente.setCargo("Gerente");
+		gerente.salario_total();
+		gerente.mostrar();
+		
+		Supervisor supervisor = new Supervisor();
+		
+		supervisor.setNome("Douglas");
+		supervisor.setCargo("Supervisor");
+		supervisor.salario_total();
+		supervisor.mostrar();
+		
+		Vendedor vendedor = new Vendedor();
+		
+		vendedor.setNome("Aluisio");
+		vendedor.setCargo("Vendedor");
+		vendedor.salario_total();
+		vendedor.mostrar();
+		
+	}
+}

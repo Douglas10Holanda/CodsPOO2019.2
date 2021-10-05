@@ -1,0 +1,41 @@
+package Iury;
+
+public class Hierarquia {
+
+	protected String nome;
+	protected int salario;
+	protected String cargo;
+	
+	public Hierarquia() {
+		this.setSalario(1000);
+	}
+		
+	public void mostrar() {
+		System.out.print("Seu nome é " + this.getNome() + " e seu cargo é " + this.getCargo());
+		System.out.println(" e seu salario é de: " + this.salario + "R$");
+	}
+		
+	public String getNome() {
+		return nome;
+	}
+		
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+		
+	public int getSalario() {
+		return salario;
+	}
+		
+	public void setSalario(int salario) {
+		this.salario = salario;
+	}
+	
+	public String getCargo() {
+		return cargo;
+	}
+	
+	public void setCargo(String cargo) {
+		this.cargo = cargo;
+	}
+}

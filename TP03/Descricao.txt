@@ -1,0 +1,12 @@
+Trabalho Prático 03 - Data de Entrega: 02/10.
+Link para envio: https://www.dropbox.com/request/3NBBrKEAlAheLj8CT2TW
+
+*** ENTREGAR ZIPADO COM NOME E MATRÍCULA DA DUPLA ***
+
+Faça um diagrama de classes que modele o sistema de uma Livraria. O diagrama deverá conter pelo menos as classes: Cliente, Gerente, Funcionario_CAIXA, Livro, Revista, Filme, DVD, Jogo. Além disso, deve ser armazenado todo o histórico de compras feito por um cliente nessa livraria.
+
+A livraria poderá ter várias filiais, e um produto só pode estar em apenas uma delas. Deve ser permitido que os funcionarios de uma filial possam checar a disponibilidade de um produto qualquer em outra filial através do sistema.
+
+Use um software apropriado para fazer a modelagem.
+
+*** ENTREGAR ZIPADO COM NOME E MATRÍCULA DA DUPLA ***

@@ -1,0 +1,11 @@
+Trabalho Prático 02 - Data de Entrega: 11/09.
+Link para envio: https://www.dropbox.com/request/vks0pYwIiOXcKbw1noA1
+
+*** ENTREGAR ZIPADO COM NOME E MATRÍCULA DA DUPLA ***
+
+
+- Preencher as classes Contato.java e Cadastro.java.
+- Criar uma classe Principal com o método main para testar o seu programa.
+
+
+*** ENTREGAR ZIPADO COM NOME E MATRÍCULA DA DUPLA ***

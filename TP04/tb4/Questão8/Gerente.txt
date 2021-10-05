@@ -1,0 +1,9 @@
+package Iury;
+
+public class Gerente extends Hierarquia {
+	
+	public void salario_total() {
+	this.salario = (int) (this.salario + 1500);	
+}
+	
+}

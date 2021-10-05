@@ -1,0 +1,8 @@
+********* Lista 03 - Polimorfismo (Implementação) ************
+Implementar Lista 03 - Polimorfismo.
+
+
+Entrega: 09/10
+Link para envio: https://www.dropbox.com/request/hl39V8eFTRiPIdoQRbf6
+
+******* Colocar nome e matricula da dupla no arquivo zipado!

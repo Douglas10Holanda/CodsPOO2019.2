@@ -1,0 +1,26 @@
+********************************* SISTEMA DE ACADEMIA ******************************
+
+***** 1a Parte (Diagrama UML):
+Criar um diagrama UML para esse sistema.
+-> Requisitos do sistema:
+    - O Sistema deve incluir o cadastro dos clientes da academia, assim como do gerente, dos funcionários (caixa, intrutores e pessoal da limpeza).
+    - A academia possui diversas máquinas, que são divididas em categorias, de acordo com o músculo principal que trabalha.
+    - Existem três planos diferentes para os clientes
+    - Existem duas formas de pagamento: Boleto e Cartão de Crédito
+    - A academia pode ter diversas filiais (usar classe endereço)
+
+Entrega do diagrama UML (Parte 1): 22/10
+Link para upload: https://www.dropbox.com/request/FONNZdRYXsRz68bTqjlB
+
+>>>>>>>>>>>>>>>>>>>> Colocar nome e matricula da dupla no arquivo zipado!
+
+***** 2a Parte (Implementação):
+Implementar na linguagem Java a modelagem UML do sistema de Academia em anexo (usar programa Astah para abri-la).
+Seu sistema deve possuir um Menu que deverá permitir pelo menos as operações definidas na classe Menu da modelagem.
+
+OBS: Respeite os modificadores de acesso (público, protegido e privado) de cada atributo e método.
+
+Entrega da Implementação(Parte 2): 30/10
+Link para upload: https://www.dropbox.com/request/GJ8dRkNiN1Mu8CZnm3Ho
+
+>>>>>>>>>>>>>>>>>>>>  Colocar nome e matricula da dupla no arquivo zipado!

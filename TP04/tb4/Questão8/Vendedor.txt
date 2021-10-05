@@ -1,0 +1,7 @@
+package Iury;
+
+public class Vendedor extends Hierarquia {
+	public void salario_total() {
+		this.salario = (int) (this.salario + 250);	
+	}
+}
